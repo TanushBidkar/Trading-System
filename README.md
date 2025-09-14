@@ -1,4 +1,6 @@
 IntelliTrade   | Multi-Agent System for Algorithmic Trading with Adaptive Strategies
+
+
 Technologies used: Node.js, TypeScript, Python, Generative AI, Reinforcement Learning, RAG, Flask, SQL, Docker, REST APIs, 
 •	Developed a multi-agent system where specialized agents executed diverse trading strategies using Python, Generative AI, Reinforcement Learning and RAG (Retrieval-Augmented Generation). Integrated real-time stock market APIs (Alpha Vantage), historical data analysis and portfolio optimization techniques to adapt strategies dynamically under market volatility. Designed scalable architecture with REST APIs, distributed systems, and database integration for efficient decision-making and collaboration.
 <img width="982" height="619" alt="image" src="https://github.com/user-attachments/assets/cffca1ff-2095-43e9-9dd6-2006705e4385" />
